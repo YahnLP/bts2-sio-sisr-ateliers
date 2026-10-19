@@ -24,7 +24,7 @@ Un atelier = une fiche (objectifs, déroulé, livrable) + un guide (méthode, ex
 |---|---|
 | Socle du site, ressources | Rédigés ; **à valider** |
 | Axe A (A01 à A07) | Rédigés ; **à valider** |
-| Axe B (B01 à B04) | À rédiger |
+| Axe B (B01 à B04) | Rédigé ; **à valider** |
 | Axe C (C01 à C04) | À rédiger |
 
 > [!WARNING]
