@@ -1,3 +1,7 @@
 title: Axe C – Ateliers techniques
 nav:
   - README.md
+  - C01-audit-de-parc
+  - C02-incident-et-retour-experience
+  - C03-supervision-disponibilite
+  - C04-test-de-restauration
