@@ -1,6 +1,6 @@
 # Ateliers de professionnalisation – BTS SIO SISR, 2e année
 
-**15 ateliers autonomes** pour finaliser le portfolio, s'entraîner aux épreuves E5 (oral) et E6 (pratique et orale) du BTS SIO option SISR, et consolider des compétences transverses et techniques. Ils prolongent les ateliers de 1re année. Auteur : Yahn LE PRETTRE - Formateur – licence CC BY-NC-SA 4.0.
+**15 ateliers autonomes** pour finaliser le portfolio, s'entraîner aux épreuves E5 (oral) et E6 (pratique et orale) du BTS SIO option SISR, et consolider des compétences transverses et techniques. Ils prolongent les ateliers de 1re année. Auteur : Yahn LE PRETTRE - Formateur – licence CC BY-NC-SA 4.0. Utilisation dans une formation payante ou financée (CFA, OPCO) : accord préalable de l'auteur, voir `docs/ressources/licences.md`.
 
 **Site (GitHub Pages) :** <https://yahnlp.github.io/bts2-sio-sisr-ateliers/>
 
