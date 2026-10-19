@@ -25,7 +25,7 @@ Un atelier = une fiche (objectifs, déroulé, livrable) + un guide (méthode, ex
 | Socle du site, ressources | Rédigés ; **à valider** |
 | Axe A (A01 à A07) | Rédigés ; **à valider** |
 | Axe B (B01 à B04) | Rédigé ; **à valider** |
-| Axe C (C01 à C04) | À rédiger |
+| Axe C (C01 à C04) | Rédigé ; **à valider** |
 
 > [!WARNING]
 > Le contenu de la 2e année est une **proposition de l'auteur**, à valider. Les règles des épreuves reprises dans `ressources` viennent de la circulaire de la session 2026 (texte repris de la 1re année) : vérifier la circulaire de la session visée.

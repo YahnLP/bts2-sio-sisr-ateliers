@@ -1,15 +1,15 @@
 # Axe C – Ateliers techniques
 
-**Ateliers C01 à C04.** Audit de parc, gestion d'incident, supervision et disponibilité, test de restauration.
+**Ateliers C01 à C04.** Audit de parc, gestion d'incident, supervision, restauration.
 
 > [!NOTE]
-> Les ateliers de cet axe sont **en cours de rédaction** (rédigés phase par phase) et seront publiés après relecture de l'enseignant.
+> Chaque atelier est **autonome** : une fiche (objectifs, déroulé, livrable) et un guide avec exercices et grille d'évaluation sur 20 points. Les ateliers marqués *à valider* attendent la relecture de l'enseignant.
 
-## Liste prévue
+## Liste des ateliers
 
-| Atelier | Titre | Statut |
-|---|---|---|
-| C01 | Audit de parc et plan de remédiation | À rédiger |
-| C02 | Gérer un incident et rédiger le retour d'expérience | À rédiger |
-| C03 | Supervision et disponibilité : seuils, alertes, indicateurs | À rédiger |
-| C04 | Tester une restauration : RTO, RPO et rapport de test | À rédiger |
+| Atelier | Titre | Durée indicative | Compétence(s) du bloc E5 | Statut |
+|---|---|---|---|---|
+| C01 | [Auditer un parc et planifier la remédiation](C01-audit-de-parc/README.md) | 2 h | Gérer le patrimoine ; cybersécurité | **à valider** |
+| C02 | [Gérer un incident et rédiger le retour d'expérience](C02-incident-et-retour-experience/README.md) | 2 h | Répondre aux incidents et demandes | **à valider** |
+| C03 | [Superviser et calculer la disponibilité](C03-supervision-disponibilite/README.md) | 2 h | Mettre à disposition un service | **à valider** |
+| C04 | [Tester une restauration : RPO, RTO et rapport](C04-test-de-restauration/README.md) | 2 h | Continuité du service ; cybersécurité | **à valider** |
