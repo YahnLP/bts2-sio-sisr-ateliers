@@ -12,7 +12,7 @@
 | **Co-animation** | **Oui** : le professionnel invité intervient avec l'enseignant (anciens étudiants, tuteurs, partenaires de l'établissement). **À définir avec l'équipe.** |
 
 > [!NOTE]
-> **Recoupement avec la 1re année.** Cet atelier est **identique** à l'atelier de 1re année ([D03](https://yahnlp.github.io/bts1-sio-sisr-ateliers/axe-d-ateliers-complementaires/D03-rencontre-professionnelle/)). Si tu l'as déjà fait, choisis un autre professionnel à rencontrer et réutilise ta méthode.
+> **Recoupement avec la 1re année.** Cet atelier **reprend** l'atelier de 1re année ([D03](https://yahnlp.github.io/bts1-sio-sisr-ateliers/axe-d-ateliers-complementaires/D03-rencontre-professionnelle/)). Si tu l'as déjà fait, choisis un autre professionnel à rencontrer et réutilise ta méthode, puis passe au **prolongement de 2e année** (lien avec le dossier E5 et deux questions sur la sécurité).
 
 ## Objectifs
 
