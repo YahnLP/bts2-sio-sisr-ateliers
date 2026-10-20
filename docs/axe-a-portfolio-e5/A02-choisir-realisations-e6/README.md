@@ -8,6 +8,7 @@
 | **Compétence(s) visée(s)** | Concevoir, installer-tester-déployer, exploiter-dépanner-superviser une solution d'infrastructure (bloc 2 de l'option SISR) |
 | **Prérequis** | A01 |
 | **Livrable** | Une **matrice de couverture** des deux réalisations et un **argumentaire d'une page** justifiant le choix. |
+| **Co-animation** | Possible avec l'enseignant de CEJM (dossier, oral). **À définir avec l'équipe.** |
 
 ## Objectifs
 

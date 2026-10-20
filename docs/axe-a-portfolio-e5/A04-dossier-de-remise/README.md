@@ -8,6 +8,7 @@
 | **Compétence(s) visée(s)** | Mettre à disposition un service ; organiser son développement professionnel |
 | **Prérequis** | A01 à A03 |
 | **Livrable** | Un **dossier de remise** complet, **sauvegardé** en deux exemplaires, avec un **plan B hors ligne**. |
+| **Co-animation** | Possible avec l'enseignant de CEJM (dossier, oral). **À définir avec l'équipe.** |
 
 ## Objectifs
 

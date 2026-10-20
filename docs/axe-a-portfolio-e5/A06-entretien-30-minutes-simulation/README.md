@@ -8,6 +8,7 @@
 | **Compétence(s) visée(s)** | Toutes les compétences du bloc E5 ; organiser son développement professionnel |
 | **Prérequis** | A05 |
 | **Livrable** | Une **fiche personnelle de réponses** (une réponse structurée par compétence) et une **simulation** observée. |
+| **Co-animation** | Possible avec l'enseignant de CEJM (dossier, oral). **À définir avec l'équipe.** |
 
 ## Objectifs
 

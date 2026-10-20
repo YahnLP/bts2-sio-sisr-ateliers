@@ -8,6 +8,7 @@
 | **Compétence(s) visée(s)** | Concevoir, installer-tester-déployer, exploiter-dépanner-superviser une solution d'infrastructure (bloc 2 de l'option SISR) |
 | **Prérequis** | A02 ; laboratoire avec une machine serveur virtuelle |
 | **Livrable** | Une **réalisation testée** dans le temps imparti, une **procédure d'une page** et la **grille d'observation** remplie. |
+| **Co-animation** | Possible avec l'enseignant de CEJM (dossier, oral). **À définir avec l'équipe.** |
 
 ## Objectifs
 

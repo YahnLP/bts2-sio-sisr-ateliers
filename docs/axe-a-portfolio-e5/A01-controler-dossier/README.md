@@ -8,6 +8,7 @@
 | **Compétence(s) visée(s)** | Toutes (vue d'ensemble) ; organiser son développement professionnel |
 | **Prérequis** | Un portfolio commencé et au moins une fiche de réalisation rédigée (ateliers de 1re année) |
 | **Livrable** | Une **checklist de conformité** remplie et un **plan d'action daté**. |
+| **Co-animation** | Possible avec l'enseignant de CEJM (dossier, oral). **À définir avec l'équipe.** |
 
 ## Objectifs
 

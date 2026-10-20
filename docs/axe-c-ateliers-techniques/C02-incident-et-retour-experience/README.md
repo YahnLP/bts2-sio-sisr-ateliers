@@ -8,6 +8,7 @@
 | **Compétence(s) visée(s)** | Répondre aux incidents et aux demandes |
 | **Prérequis** | B04 (communication de crise) |
 | **Livrable** | Une **fiche d'incident** et un **retour d'expérience** (REX). |
+| **Co-animation** | Possible avec l'enseignant du bloc technique concerné ou le tuteur. **À définir avec l'équipe.** |
 
 ## Objectifs
 

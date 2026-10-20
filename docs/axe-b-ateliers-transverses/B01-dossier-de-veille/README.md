@@ -8,6 +8,7 @@
 | **Compétence(s) visée(s)** | Organiser son développement professionnel |
 | **Prérequis** | Une veille commencée (1re année) |
 | **Livrable** | Un **dossier de veille** : sujet, sources évaluées, six fiches, une synthèse et trois phrases pour l'oral. |
+| **Co-animation** | Possible selon le thème (CEJM, anglais, enseignant du bloc concerné). **À définir avec l'équipe.** |
 
 ## Objectifs
 

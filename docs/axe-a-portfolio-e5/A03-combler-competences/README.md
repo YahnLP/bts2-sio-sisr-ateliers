@@ -8,6 +8,7 @@
 | **Compétence(s) visée(s)** | Toutes les compétences du bloc E5 |
 | **Prérequis** | A01 ; tableau de synthèse commencé (1re année) |
 | **Livrable** | Un **tableau de couverture** des six compétences du bloc E5 et un **plan pour combler** chaque manque. |
+| **Co-animation** | Possible avec l'enseignant de CEJM (dossier, oral). **À définir avec l'équipe.** |
 
 ## Objectifs
 

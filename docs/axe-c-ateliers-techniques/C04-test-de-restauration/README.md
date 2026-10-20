@@ -8,6 +8,7 @@
 | **Compétence(s) visée(s)** | Assurer la continuité du service ; assurer la cybersécurité |
 | **Prérequis** | Sauvegardes de 1re année |
 | **Livrable** | Un **rapport de test de restauration** comparant mesures et objectifs. |
+| **Co-animation** | Possible avec l'enseignant du bloc technique concerné ou le tuteur. **À définir avec l'équipe.** |
 
 ## Objectifs
 

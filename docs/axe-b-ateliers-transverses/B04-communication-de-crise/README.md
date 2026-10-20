@@ -8,6 +8,7 @@
 | **Compétence(s) visée(s)** | Répondre aux incidents et aux demandes ; mettre à disposition un service |
 | **Prérequis** | B04 de 1re année (communication professionnelle) |
 | **Livrable** | Trois **messages types** (alerte, point d'étape, clôture) pour un incident fictif. |
+| **Co-animation** | Possible selon le thème (CEJM, anglais, enseignant du bloc concerné). **À définir avec l'équipe.** |
 
 ## Objectifs
 
