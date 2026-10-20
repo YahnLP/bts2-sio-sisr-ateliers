@@ -50,6 +50,5 @@
 - Ce scénario est un entraînement inspiré du déroulement décrit dans la circulaire ; il n'est pas un sujet officiel.
 - Prévoir : une machine serveur virtuelle par candidat, un poste client, un enseignant ou camarade jouant la commission.
 - Les valeurs chiffrées ont été recalculées (voir corrigé du guide).
-- Atelier proposé pour la 2e année : à relire et à valider avant diffusion.
 
 </details>

@@ -49,6 +49,5 @@
 
 - Le parc de 20 postes est fictif.
 - Les critères du référentiel sont des exemples à adapter.
-- Atelier proposé pour la 2e année : à relire et à valider avant diffusion.
 
 </details>

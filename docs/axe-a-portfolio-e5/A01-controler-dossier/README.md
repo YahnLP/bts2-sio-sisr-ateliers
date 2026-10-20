@@ -48,6 +48,5 @@
 
 - Les pénalités citées viennent de la circulaire de la session 2026 (voir ressources) : à revérifier pour la session visée.
 - Durée et découpage proposés par l'enseignant.
-- Atelier proposé pour la 2e année : à relire et à valider avant diffusion.
 
 </details>

@@ -49,6 +49,5 @@
 
 - Atelier à placer quand un professionnel est disponible ; à défaut, simulation avec un tuteur ou un ancien étudiant.
 - Ne pas diffuser d'informations personnelles sur l'invité sans son accord.
-- Atelier écrit lors de la refonte ; **à valider** avant diffusion.
 
 </details>

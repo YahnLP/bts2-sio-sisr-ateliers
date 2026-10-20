@@ -49,6 +49,5 @@
 
 - L'incident est fictif ; durées recalculées (2 h 30, soit 150 minutes).
 - Un jeu de rôle avec un camarade « utilisateur » améliore l'exercice.
-- Atelier proposé pour la 2e année : à relire et à valider avant diffusion.
 
 </details>

@@ -48,6 +48,5 @@
 
 - Les trois compétences du bloc 2 sont celles du référentiel du site du bloc 2 (https://yahnlp.github.io/bts2-sio-sisr-bloc2/) ; la grille officielle les détaille en 17 compétences.
 - Cas fictif, à adapter à la classe.
-- Atelier proposé pour la 2e année : à relire et à valider avant diffusion.
 
 </details>

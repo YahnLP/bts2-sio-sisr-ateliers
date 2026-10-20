@@ -51,6 +51,5 @@
 
 - Cet atelier **n'est pas** le cours d'anglais (unité U2) : il le complète avec le vocabulaire du métier.
 - Machines et utilisateurs des exemples fictifs.
-- Atelier écrit lors de la refonte ; **à valider** avant diffusion.
 
 </details>

@@ -49,6 +49,5 @@
 
 - Les chiffres du planning sont calculés dans le corrigé du guide (6 jours, chemin A-B-D).
 - Les échelles de risque sont des conventions de l'atelier.
-- Atelier proposé pour la 2e année : à relire et à valider avant diffusion.
 
 </details>
