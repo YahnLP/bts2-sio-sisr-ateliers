@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR, 2e année – atelier de professionnalisation |
 | **Axe** | Axe D – Ateliers complémentaires |
 | **Durée indicative** | 2 h |
+| **Parcours** | **Complément** – Anglais technique : complément de l'enseignement d'anglais ; ne conditionne aucun atelier. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Compétence(s) visée(s)** | Organiser son développement professionnel ; répondre aux incidents et demandes (documentation et échanges en anglais) |
 | **Prérequis** | Aucun |
 | **Livrable** | Un ticket rédigé en anglais et une présentation orale de deux minutes |

@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR, 2e année – atelier de professionnalisation |
 | **Axe** | Axe D – Ateliers complémentaires |
 | **Durée indicative** | 2 h |
+| **Parcours** | **Complément** – Entrepreneuriat : complémentaire, sans lien avec les épreuves E5 et E6. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Compétence(s) visée(s)** | Organiser son développement professionnel ; mettre à disposition un service |
 | **Prérequis** | Aucun |
 | **Livrable** | Une fiche d'offre, un calcul de tarif horaire et un pitch de trois minutes |

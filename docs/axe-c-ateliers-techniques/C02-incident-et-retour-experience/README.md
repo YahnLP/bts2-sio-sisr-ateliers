@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR, 2e année – atelier de professionnalisation |
 | **Axe** | Axe C – Ateliers techniques |
 | **Durée indicative** | 2 h |
+| **Parcours** | **Cœur** – Incident et retour d'expérience : seul atelier sur la compétence « répondre aux incidents » en 2e année. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Compétence(s) visée(s)** | Répondre aux incidents et aux demandes |
 | **Prérequis** | B04 (communication de crise) |
 | **Livrable** | Une **fiche d'incident** et un **retour d'expérience** (REX). |

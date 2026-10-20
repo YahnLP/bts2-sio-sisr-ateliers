@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR, 2e année – atelier de professionnalisation |
 | **Axe** | Axe B – Ateliers transverses |
 | **Durée indicative** | 2 h |
+| **Parcours** | **Cœur** – Projet de fin d'année : seul atelier sur la compétence « travailler en mode projet ». Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Compétence(s) visée(s)** | Travailler en mode projet |
 | **Prérequis** | B03 de 1re année (mini-projet) |
 | **Livrable** | Un **dossier de projet** : cadrage, planning, risques, suivi et bilan. |

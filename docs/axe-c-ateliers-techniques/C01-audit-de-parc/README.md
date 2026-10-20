@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR, 2e année – atelier de professionnalisation |
 | **Axe** | Axe C – Ateliers techniques |
 | **Durée indicative** | 2 h |
+| **Parcours** | **Cœur** – Audit de parc : seul atelier sur la compétence « gérer le patrimoine informatique » en 2e année. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Compétence(s) visée(s)** | Gérer le patrimoine informatique ; assurer la cybersécurité |
 | **Prérequis** | Inventaire de 1re année |
 | **Livrable** | Un **rapport d'audit** : inventaire, écarts, priorités et plan de remédiation. |

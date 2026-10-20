@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR, 2e année – atelier de professionnalisation |
 | **Axe** | Axe C – Ateliers techniques |
 | **Durée indicative** | 2 h |
+| **Parcours** | **Complément** – Supervision et disponibilité : exercice de mise en pratique d'un savoir traité en bloc 2 (S11), qui reste cœur. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Compétence(s) visée(s)** | Mettre à disposition un service ; répondre aux incidents |
 | **Prérequis** | Notions de supervision de 1re année |
 | **Livrable** | Une **fiche de supervision** : indicateurs, seuils, alertes et calcul de disponibilité. |

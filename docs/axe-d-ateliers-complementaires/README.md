@@ -7,9 +7,9 @@
 
 ## Liste des ateliers
 
-| Atelier | Titre | Durée indicative | Compétence(s) du bloc E5 | Statut |
-|---|---|---|---|---|
-| D01 | [Anglais technique : lire, écrire et dire l'essentiel](D01-anglais-technique/README.md) | 2 h | Organiser son développement professionnel ; répondre aux incidents et demandes | **à valider** |
-| D02 | [Entrepreneuriat : de l'idée à l'offre de service](D02-entrepreneuriat/README.md) | 2 h | Organiser son développement professionnel ; mettre à disposition un service | **à valider** |
-| D03 | [Rencontre professionnelle : préparer, mener, restituer](D03-rencontre-professionnelle/README.md) | 1 h 30 | Organiser son développement professionnel | **à valider** |
-| D04 | [Valoriser son expérience en entreprise](D04-valoriser-experience-entreprise/README.md) | 2 h | Organiser son développement professionnel | **à valider** |
+| Atelier | Titre | Durée indicative | Compétence(s) du bloc E5 | Parcours | Statut |
+|---|---|---|---|---|---|
+| D01 | [Anglais technique : lire, écrire et dire l'essentiel](D01-anglais-technique/README.md) | 2 h | Organiser son développement professionnel ; répondre aux incidents et demandes | **Complément** | **à valider** |
+| D02 | [Entrepreneuriat : de l'idée à l'offre de service](D02-entrepreneuriat/README.md) | 2 h | Organiser son développement professionnel ; mettre à disposition un service | **Complément** | **à valider** |
+| D03 | [Rencontre professionnelle : préparer, mener, restituer](D03-rencontre-professionnelle/README.md) | 1 h 30 | Organiser son développement professionnel | **Complément** | **à valider** |
+| D04 | [Valoriser son expérience en entreprise](D04-valoriser-experience-entreprise/README.md) | 2 h | Organiser son développement professionnel | **Cœur** | **à valider** |
