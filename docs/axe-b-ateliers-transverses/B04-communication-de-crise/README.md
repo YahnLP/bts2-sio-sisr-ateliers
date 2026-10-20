@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR, 2e année – atelier de professionnalisation |
 | **Axe** | Axe B – Ateliers transverses |
 | **Durée indicative** | 1 h 30 |
+| **Parcours** | **Cœur** – Communication de crise : prérequis de C02. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Compétence(s) visée(s)** | Répondre aux incidents et aux demandes ; mettre à disposition un service |
 | **Prérequis** | B04 de 1re année (communication professionnelle) |
 | **Livrable** | Trois **messages types** (alerte, point d'étape, clôture) pour un incident fictif. |

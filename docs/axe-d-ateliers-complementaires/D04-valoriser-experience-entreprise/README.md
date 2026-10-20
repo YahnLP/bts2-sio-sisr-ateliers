@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR, 2e année – atelier de professionnalisation |
 | **Axe** | Axe D – Ateliers complémentaires |
 | **Durée indicative** | 2 h |
+| **Parcours** | **Cœur** – Valoriser une expérience d'entreprise : fournit les fiches d'activité qui alimentent le portfolio. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Compétence(s) visée(s)** | Organiser son développement professionnel ; élément de preuve du portfolio |
 | **Prérequis** | Aucun |
 | **Livrable** | Une fiche d'activité anonymisée reliée à une ou deux compétences |

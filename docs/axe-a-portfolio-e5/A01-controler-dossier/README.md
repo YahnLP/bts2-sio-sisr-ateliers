@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR, 2e année – atelier de professionnalisation |
 | **Axe** | Axe A – Portfolio et épreuves E5/E6 |
 | **Durée indicative** | 2 h |
+| **Parcours** | **Cœur** – Contrôle du dossier : point de départ de la 2e année ; prérequis de A02, A03 et A04. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Compétence(s) visée(s)** | Toutes (vue d'ensemble) ; organiser son développement professionnel |
 | **Prérequis** | Un portfolio commencé et au moins une fiche de réalisation rédigée (ateliers de 1re année) |
 | **Livrable** | Une **checklist de conformité** remplie et un **plan d'action daté**. |

@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR, 2e année – atelier de professionnalisation |
 | **Axe** | Axe C – Ateliers techniques |
 | **Durée indicative** | 2 h |
+| **Parcours** | **Complément** – Test de restauration : exercice de mise en pratique d'un savoir traité en bloc 2 (S05) et en bloc 3 (S16). Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Compétence(s) visée(s)** | Assurer la continuité du service ; assurer la cybersécurité |
 | **Prérequis** | Sauvegardes de 1re année |
 | **Livrable** | Un **rapport de test de restauration** comparant mesures et objectifs. |

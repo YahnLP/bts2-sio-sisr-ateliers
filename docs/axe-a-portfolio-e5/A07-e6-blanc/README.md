@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR, 2e année – atelier de professionnalisation |
 | **Axe** | Axe A – Portfolio et épreuves E5/E6 |
 | **Durée indicative** | 3 h |
+| **Parcours** | **Cœur** – E6 blanc : seul entraînement à l'épreuve E6 de cette série. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Compétence(s) visée(s)** | Concevoir, installer-tester-déployer, exploiter-dépanner-superviser une solution d'infrastructure (bloc 2 de l'option SISR) |
 | **Prérequis** | A02 ; laboratoire avec une machine serveur virtuelle |
 | **Livrable** | Une **réalisation testée** dans le temps imparti, une **procédure d'une page** et la **grille d'observation** remplie. |

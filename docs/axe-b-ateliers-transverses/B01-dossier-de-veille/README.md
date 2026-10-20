@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR, 2e année – atelier de professionnalisation |
 | **Axe** | Axe B – Ateliers transverses |
 | **Durée indicative** | 1 h 30 |
+| **Parcours** | **Cœur** – Dossier de veille : seul atelier de 2e année sur cette pratique (organiser son développement professionnel). Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Compétence(s) visée(s)** | Organiser son développement professionnel |
 | **Prérequis** | Une veille commencée (1re année) |
 | **Livrable** | Un **dossier de veille** : sujet, sources évaluées, six fiches, une synthèse et trois phrases pour l'oral. |

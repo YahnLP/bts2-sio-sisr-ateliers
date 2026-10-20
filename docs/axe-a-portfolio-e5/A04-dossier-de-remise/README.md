@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR, 2e année – atelier de professionnalisation |
 | **Axe** | Axe A – Portfolio et épreuves E5/E6 |
 | **Durée indicative** | 2 h |
+| **Parcours** | **Cœur** – Dossier de remise : un portfolio inaccessible ou l'absence de tableau de synthèse sont pénalisés. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Compétence(s) visée(s)** | Mettre à disposition un service ; organiser son développement professionnel |
 | **Prérequis** | A01 à A03 |
 | **Livrable** | Un **dossier de remise** complet, **sauvegardé** en deux exemplaires, avec un **plan B hors ligne**. |

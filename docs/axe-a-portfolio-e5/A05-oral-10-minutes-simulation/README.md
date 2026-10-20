@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR, 2e année – atelier de professionnalisation |
 | **Axe** | Axe A – Portfolio et épreuves E5/E6 |
 | **Durée indicative** | 2 h 30 |
+| **Parcours** | **Cœur** – Oral de 10 minutes : première partie de l'épreuve E5 ; prérequis de A06. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Compétence(s) visée(s)** | Organiser son développement professionnel ; compétences du bloc E5 |
 | **Prérequis** | A01 à A03 ; plan de présentation de 1re année |
 | **Livrable** | Un **script ou plan final** tenant en 9 min 30, un **enregistrement** analysé et une **fiche d'observation** remplie par un camarade. |

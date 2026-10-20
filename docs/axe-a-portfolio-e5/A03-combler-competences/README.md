@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR, 2e année – atelier de professionnalisation |
 | **Axe** | Axe A – Portfolio et épreuves E5/E6 |
 | **Durée indicative** | 1 h 30 |
+| **Parcours** | **Cœur** – Compétences à combler : le dossier E5 doit couvrir les six compétences. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Compétence(s) visée(s)** | Toutes les compétences du bloc E5 |
 | **Prérequis** | A01 ; tableau de synthèse commencé (1re année) |
 | **Livrable** | Un **tableau de couverture** des six compétences du bloc E5 et un **plan pour combler** chaque manque. |

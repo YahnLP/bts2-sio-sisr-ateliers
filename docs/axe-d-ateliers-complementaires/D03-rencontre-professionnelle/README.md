@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR, 2e année – atelier de professionnalisation |
 | **Axe** | Axe D – Ateliers complémentaires |
 | **Durée indicative** | 1 h 30 (plus la rencontre elle-même) |
+| **Parcours** | **Complément** – Rencontre professionnelle : dépend d'un intervenant extérieur ; ne conditionne aucun atelier. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Compétence(s) visée(s)** | Organiser son développement professionnel |
 | **Prérequis** | Aucun |
 | **Livrable** | Une liste de questions, un compte rendu d'une page et un message de remerciement |
