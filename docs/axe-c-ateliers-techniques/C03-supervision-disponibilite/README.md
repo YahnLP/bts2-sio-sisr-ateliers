@@ -8,6 +8,7 @@
 | **Compétence(s) visée(s)** | Mettre à disposition un service ; répondre aux incidents |
 | **Prérequis** | Notions de supervision de 1re année |
 | **Livrable** | Une **fiche de supervision** : indicateurs, seuils, alertes et calcul de disponibilité. |
+| **Co-animation** | Possible avec l'enseignant du bloc technique concerné ou le tuteur. **À définir avec l'équipe.** |
 
 ## Objectifs
 

@@ -4,7 +4,7 @@
 
 # Ateliers de professionnalisation
 
-<p class="hero-sem"><span>Finaliser le portfolio, s'entraîner aux épreuves E5 et E6</span><span>15 ateliers autonomes</span></p>
+<p class="hero-sem"><span>Finaliser le portfolio, s'entraîner aux épreuves E5 et E6</span><span>19 ateliers autonomes</span></p>
 
 <p class="hero-sub">Guides, exercices et grilles d'évaluation</p>
 
@@ -45,6 +45,14 @@
 **C01 à C04** – Audit de parc, gestion d'incident, supervision et disponibilité, test de restauration.
 
 [**Ouvrir l'axe**](axe-c-ateliers-techniques/README.md){ .go }
+</div>
+
+<div class="card" markdown>
+
+### Axe D – Ateliers complémentaires
+**D01 à D04** – Anglais technique, entrepreneuriat, rencontre professionnelle, valorisation de l'expérience en entreprise.
+
+[**Ouvrir l'axe**](axe-d-ateliers-complementaires/README.md){ .go }
 </div>
 
 <div class="card green" markdown>

@@ -8,6 +8,7 @@
 | **Compétence(s) visée(s)** | Organiser son développement professionnel ; compétences du bloc E5 |
 | **Prérequis** | A01 à A03 ; plan de présentation de 1re année |
 | **Livrable** | Un **script ou plan final** tenant en 9 min 30, un **enregistrement** analysé et une **fiche d'observation** remplie par un camarade. |
+| **Co-animation** | Possible avec l'enseignant de CEJM (dossier, oral). **À définir avec l'équipe.** |
 
 ## Objectifs
 

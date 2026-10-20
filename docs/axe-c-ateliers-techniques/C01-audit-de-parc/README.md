@@ -8,6 +8,7 @@
 | **Compétence(s) visée(s)** | Gérer le patrimoine informatique ; assurer la cybersécurité |
 | **Prérequis** | Inventaire de 1re année |
 | **Livrable** | Un **rapport d'audit** : inventaire, écarts, priorités et plan de remédiation. |
+| **Co-animation** | Possible avec l'enseignant du bloc technique concerné ou le tuteur. **À définir avec l'équipe.** |
 
 ## Objectifs
 

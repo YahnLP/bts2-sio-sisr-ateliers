@@ -8,6 +8,7 @@
 | **Compétence(s) visée(s)** | Travailler en mode projet |
 | **Prérequis** | B03 de 1re année (mini-projet) |
 | **Livrable** | Un **dossier de projet** : cadrage, planning, risques, suivi et bilan. |
+| **Co-animation** | Possible selon le thème (CEJM, anglais, enseignant du bloc concerné). **À définir avec l'équipe.** |
 
 ## Objectifs
 
