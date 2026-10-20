@@ -49,6 +49,5 @@
 
 - Complète l'atelier de veille de 1re année : ici on prépare la défense du dossier, pas la mise en place.
 - Les sources citées sont des catégories ; aucune adresse précise n'est imposée.
-- Atelier proposé pour la 2e année : à relire et à valider avant diffusion.
 
 </details>

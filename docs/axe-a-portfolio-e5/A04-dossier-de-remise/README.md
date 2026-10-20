@@ -48,6 +48,5 @@
 
 - Complète l'atelier A04 de 1re année (documenter les preuves) : ici on prépare la remise, pas la production des preuves.
 - Les règles de confidentialité sont celles de la convention d'entreprise : l'élève doit demander l'accord de son tuteur.
-- Atelier proposé pour la 2e année : à relire et à valider avant diffusion.
 
 </details>

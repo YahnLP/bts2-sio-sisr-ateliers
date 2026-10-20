@@ -3,7 +3,7 @@
 Les 19 ateliers de 2e année durent **38 h** au total (durées indicatives des fiches). La grille sous statut scolaire prévoit **96 h** d'ateliers de professionnalisation en deuxième année (annexe III.A du référentiel). Le volume réservé aux ateliers au CFA n'est pas précisé ici : à confirmer. Ce parcours indique **quels ateliers faire en priorité** si le temps réservé est inférieur à la durée totale, notamment dans les semaines qui précèdent les épreuves.
 
 > [!NOTE]
-> Ce classement est une **proposition de l'auteur, à valider** par l'équipe pédagogique. Il ne retire rien du site : chaque atelier reste disponible, et son statut est rappelé dans sa fiche.
+> Il ne retire rien du site : chaque atelier reste disponible, et son statut est rappelé dans sa fiche.
 
 ## Principe
 

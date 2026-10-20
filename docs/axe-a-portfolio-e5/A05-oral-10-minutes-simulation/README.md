@@ -52,6 +52,5 @@
 - La vitesse de parole de 130 mots par minute est un **ordre de grandeur** de l'auteur, à ajuster à chaque élève en mesurant sa propre vitesse.
 - Les 10 minutes maximales viennent de l'arrêté du 8 juillet 2024 (voir ressources).
 - Prévoir un chronomètre, un enregistreur (téléphone du candidat) et la grille imprimée.
-- Atelier proposé pour la 2e année : à relire et à valider avant diffusion.
 
 </details>

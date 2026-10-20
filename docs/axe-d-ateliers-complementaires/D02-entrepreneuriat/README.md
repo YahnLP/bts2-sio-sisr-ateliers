@@ -50,6 +50,5 @@
 
 - Aucun statut juridique ni taux de cotisation n'est donné : à documenter avec un conseiller ou le PEPITE.
 - Chiffres fictifs.
-- Atelier écrit lors de la refonte ; **à valider** avant diffusion.
 
 </details>

@@ -48,6 +48,5 @@
 
 - Les six compétences sont celles de la page Épreuves E5 et E6 (arrêté du 8 juillet 2024, repris de la 1re année).
 - Le plan est personnel : le corrigé ne donne qu'un modèle de raisonnement.
-- Atelier proposé pour la 2e année : à relire et à valider avant diffusion.
 
 </details>

@@ -50,6 +50,5 @@
 
 - Aucun contenu confidentiel ne doit sortir de l'entreprise sans l'accord du tuteur.
 - À articuler avec les ateliers de l'axe A (portfolio).
-- Atelier écrit lors de la refonte ; **à valider** avant diffusion.
 
 </details>

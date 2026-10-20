@@ -49,6 +49,5 @@
 
 - L'incident (disque plein) est fictif.
 - Les heures sont des exemples ; durées recalculées.
-- Atelier proposé pour la 2e année : à relire et à valider avant diffusion.
 
 </details>

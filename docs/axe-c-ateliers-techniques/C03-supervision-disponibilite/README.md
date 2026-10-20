@@ -49,6 +49,5 @@
 
 - Les valeurs sont fictives. Un mois de 30 jours = 43 200 minutes.
 - Les seuils sont des exemples : à adapter au service.
-- Atelier proposé pour la 2e année : à relire et à valider avant diffusion.
 
 </details>

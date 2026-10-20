@@ -49,6 +49,5 @@
 
 - Les débits et volumes sont fictifs ; durée recalculée (20 min pour 120 Go à 100 Mo/s, en unités décimales).
 - Un test réel suppose un environnement isolé.
-- Atelier proposé pour la 2e année : à relire et à valider avant diffusion.
 
 </details>

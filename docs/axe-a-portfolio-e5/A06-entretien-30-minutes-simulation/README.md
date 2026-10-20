@@ -49,6 +49,5 @@
 
 - Le découpage en 30 minutes d'échange vient de l'arrêté du 8 juillet 2024 ; le nombre de questions est une estimation.
 - La banque de questions est celle de l'auteur : ce ne sont pas les questions officielles.
-- Atelier proposé pour la 2e année : à relire et à valider avant diffusion.
 
 </details>
