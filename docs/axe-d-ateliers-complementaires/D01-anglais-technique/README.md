@@ -10,6 +10,9 @@
 | **Livrable** | Un ticket rédigé en anglais et une présentation orale de deux minutes |
 | **Co-animation** | Recommandée avec l'enseignant d'anglais (compléments de vocabulaire, correction de l'oral). **À définir avec l'équipe.** |
 
+> [!NOTE]
+> **Recoupement avec la 1re année.** Cet atelier reprend l'atelier de 1re année ([D01](https://yahnlp.github.io/bts1-sio-sisr-ateliers/axe-d-ateliers-complementaires/D01-anglais-technique/)) avec en plus une présentation orale de deux minutes en anglais. Si tu as fait celui de 1re année, relis ton ticket et consacre le temps à la présentation (exercice 3).
+
 ## Objectifs
 
 À la fin de l'atelier, l'étudiant est capable de :

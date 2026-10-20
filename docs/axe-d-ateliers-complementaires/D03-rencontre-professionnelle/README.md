@@ -10,6 +10,9 @@
 | **Livrable** | Une liste de questions, un compte rendu d'une page et un message de remerciement |
 | **Co-animation** | **Oui** : le professionnel invité intervient avec l'enseignant (anciens étudiants, tuteurs, partenaires de l'établissement). **À définir avec l'équipe.** |
 
+> [!NOTE]
+> **Recoupement avec la 1re année.** Cet atelier est **identique** à l'atelier de 1re année ([D03](https://yahnlp.github.io/bts1-sio-sisr-ateliers/axe-d-ateliers-complementaires/D03-rencontre-professionnelle/)). Si tu l'as déjà fait, choisis un autre professionnel à rencontrer et réutilise ta méthode.
+
 ## Objectifs
 
 À la fin de l'atelier, l'étudiant est capable de :

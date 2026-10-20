@@ -10,6 +10,9 @@
 | **Livrable** | Une fiche d'activité anonymisée reliée à une ou deux compétences |
 | **Co-animation** | Possible avec le tuteur ou le maître d'apprentissage (relecture de la fiche). **À définir avec l'équipe.** |
 
+> [!NOTE]
+> **Recoupement avec la 1re année.** Cet atelier reprend l'atelier de 1re année ([D04](https://yahnlp.github.io/bts1-sio-sisr-ateliers/axe-d-ateliers-complementaires/D04-valoriser-experience-entreprise/)) ; seul le renvoi vers les ateliers du portfolio change. Si tu l'as déjà fait, choisis une nouvelle activité d'entreprise à valoriser.
+
 ## Objectifs
 
 À la fin de l'atelier, l'étudiant est capable de :
