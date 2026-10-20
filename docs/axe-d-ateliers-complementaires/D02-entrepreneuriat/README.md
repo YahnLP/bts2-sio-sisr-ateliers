@@ -12,7 +12,7 @@
 | **Co-animation** | Possible avec l'enseignant de CEJM (économie, droit) ou un intervenant du PEPITE. **À définir avec l'équipe.** |
 
 > [!NOTE]
-> **Recoupement avec la 1re année.** Cet atelier est **identique** à l'atelier de 1re année ([D02](https://yahnlp.github.io/bts1-sio-sisr-ateliers/axe-d-ateliers-complementaires/D02-entrepreneuriat/)). Si tu l'as déjà fait, ne le refais pas : relis ta fiche d'offre et ton tarif horaire et mets-les à jour.
+> **Recoupement avec la 1re année.** Cet atelier **reprend** l'atelier de 1re année ([D02](https://yahnlp.github.io/bts1-sio-sisr-ateliers/axe-d-ateliers-complementaires/D02-entrepreneuriat/)). Si tu l'as déjà fait, ne le refais pas : relis ta fiche d'offre et ton tarif horaire et mets-les à jour, puis passe au **prolongement de 2e année** (exercice 3 : du tarif au contrat de prestation).
 
 ## Objectifs
 

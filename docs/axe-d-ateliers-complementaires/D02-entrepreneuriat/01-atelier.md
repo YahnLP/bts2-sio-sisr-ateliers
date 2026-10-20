@@ -34,6 +34,20 @@ Plusieurs structures conseillent les étudiants : le **PEPITE** de ton académie
 
 Plan : problème (30 s), solution (60 s), clients et tarif (60 s), prochaine étape (30 s). **Exercice 2.** Prépare ce pitch pour ton offre et présente-le à un voisin, qui joue le client.
 
+## Prolongement de 2e année : de l'offre au contrat de service
+
+Cette partie n'existe pas en 1re année. Elle relie l'offre au **contrat** que tu signeras avec un client (voir la séance [Service sous contrat](https://yahnlp.github.io/bts2-sio-sisr-bloc2/phase-3-exploiter-superviser/S14-service-sous-contrat/) du bloc 2).
+
+**Exercice 3.** Pour ton offre, rédige les cinq clauses essentielles d'un contrat de prestation : **périmètre** (ce qui est inclus et exclu), **niveau de service** (délai de prise en charge, disponibilité visée), **responsabilités** (de toi, du client), **durée et résiliation**, **confidentialité et données personnelles**. Indique pour chacune un chiffre ou un engagement vérifiable.
+
+<details markdown="1">
+<summary>Exemple de clause vérifiable</summary>
+
+« Prise en charge d'un incident bloquant sous 4 heures ouvrées ; disponibilité de la sauvegarde contrôlée chaque mois, compte rendu envoyé au client. » Une clause sans chiffre ni preuve ne peut pas être respectée ni contestée. **À faire relire par un juriste** avant tout usage réel : cet exercice est pédagogique, pas un modèle de contrat.
+</details>
+
+Cette partie est **facultative** et n'est pas notée dans la grille ci-dessous.
+
 ## Grille d'évaluation (20 points)
 
 | Critère | Points | Auto-évaluation |

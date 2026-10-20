@@ -27,6 +27,18 @@ Exemples de bonnes questions : « Quelle journée type avez-vous ? », « Quel i
 
 Dans les 24 h : un **compte rendu d'une page** (qui, quand, trois apprentissages, une idée à suivre) et un **message de remerciement** de cinq lignes.
 
+## Prolongement de 2e année : nourrir le dossier E5 et l'épreuve orale
+
+Cette partie n'existe pas en 1re année. À la fin de la rencontre, relie ce que tu as appris à ton **dossier** :
+
+1. **Relever** deux passages du témoignage qui illustrent des compétences du référentiel (par exemple : gérer un incident, sécuriser un accès, communiquer avec un client).
+2. **Rattacher** chaque passage à une situation que **tu** as vécue en entreprise ou en formation.
+3. **Préparer** une réponse de deux minutes à la question : « Que ferais-tu différemment après cette rencontre ? ».
+
+**Exercice 2.** Prépare, en plus de tes huit questions, deux questions sur la **sécurité** et la **veille** : « Comment suivez-vous les vulnérabilités ? », « Quel incident de sécurité vous a fait changer une pratique ? ».
+
+Cette partie est **facultative** et n'est pas notée dans la grille ci-dessous.
+
 ## Grille d'évaluation (20 points)
 
 | Critère | Points | Auto-évaluation |
